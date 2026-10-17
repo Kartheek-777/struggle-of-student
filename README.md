@@ -1,6 +1,7 @@
 # Struggle of Student (SS)
 
-image.png
+<img width="1917" height="962" alt="image" src="https://github.com/user-attachments/assets/8fda6352-9ff8-476b-aeeb-aaae33fdb1b1" />
+
 
 A full-stack web platform built with **Django REST Framework** and **React (Vite)**.
 
