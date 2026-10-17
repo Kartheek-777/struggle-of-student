@@ -88,3 +88,4 @@ SS/
    npm run dev
    ```
    The frontend application will run on `http://localhost:5173/`.
+
