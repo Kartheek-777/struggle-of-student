@@ -8,6 +8,7 @@ from . import search_views
 
 urlpatterns = [
     # Health check
+    path('', views.health_check, name='api_root'),
     path('health/', views.health_check, name='health_check'),
 
     # Phase 11 Analytics & Search APIs
