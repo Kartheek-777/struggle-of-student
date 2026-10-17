@@ -1,5 +1,7 @@
 # Struggle of Student (SS)
 
+image.png
+
 A full-stack web platform built with **Django REST Framework** and **React (Vite)**.
 
 ## Project Structure
