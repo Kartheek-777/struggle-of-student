@@ -25,6 +25,8 @@ db.sqlite3
 *.log
 local_settings.py
 db.sqlite3-journal
+staticfiles/
+backend/staticfiles/
 
 # Virtual Environments
 venv/
