@@ -66,10 +66,10 @@ def health_check(request):
 @api_view(['GET'])
 @permission_classes([AllowAny])
 def root_health_check(request):
-    return Response({
+    return JsonResponse({
         "status": "ok",
-        "message": "Struggle of Student backend is running"
-    }, status=status.HTTP_200_OK)
+        "message": "Struggle of Student backend is running",
+    })
 
 # REGISTER API
 @api_view(['POST'])
